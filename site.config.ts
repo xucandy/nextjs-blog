@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '个人全栈技术分享',
-  domain: 'https://www.notion.so/Personal-Home-5779e524b55949d6beccbd1f9270e8f3',
+  domain: 'https://large-brisket-b56.notion.site/home-5779e524b55949d6beccbd1f9270e8f3',
   author: 'xujianlei',
 
   // open graph metadata (optional)
